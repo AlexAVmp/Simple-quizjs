@@ -1,1 +1,1 @@
-# Simple-quizjs-
+# Simple-quizjs
